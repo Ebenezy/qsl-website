@@ -1,0 +1,101 @@
+@media only screen and (min-width: 240px) and (max-width: 767px) {
+    .hero_section {
+        height: 100%;
+        padding-bottom: 2rem;
+    }
+
+    .nav_bg,
+    .nav_bg2 {
+        padding-top: 0.5rem;
+    }
+
+    .nav-link {
+        padding-left: 0 !important;
+    }
+
+    .become_rider__ {
+        margin-top: 0.8rem;
+        margin-bottom: 1rem;
+    }
+
+    .hero_section_inner h1,
+    .hero_section_inner h3,
+    .section_2 h3,
+    .section_2 h4,
+    .make_money_section_inner_2 h4,
+    .best_delivery_section h5 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .hero_left {
+        text-align: center;
+    }
+
+    .hero_left div {
+        justify-content: center;
+    }
+
+    .tab-pane {
+        text-align: center;
+    }
+
+    .make_money_section {
+        padding-bottom: 5rem;
+    }
+
+    .make_money_section_inner {
+        background: none;
+    }
+
+    .make_money_section_inner_2 {
+        margin: auto;
+        text-align: center;
+    }
+
+    .best_delivery_texts {
+        text-align: center;
+    }
+
+    .best_delivery_texts div div {
+        justify-content: center;
+    }
+
+    .best_delivery_texts_ {
+        padding-left: 0;
+    }
+
+    .order-1 {
+        order: 2;
+    }
+
+    .order-2 {
+        order: 1;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 996px) {
+
+    .hero_section_inner h1,
+    .hero_section_inner h3,
+    .section_2 h3,
+    .section_2 h4,
+    .make_money_section_inner_2 h4,
+    .best_delivery_section h5 {
+        font-size: 32px;
+        line-height: 37px;
+    }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+
+    .hero_section_inner h1,
+    .hero_section_inner h3,
+    .section_2 h3,
+    .section_2 h4,
+    .make_money_section_inner_2 h4,
+    .best_delivery_section h5 {
+        font-size: 32px;
+        line-height: 37px;
+    }
+}
